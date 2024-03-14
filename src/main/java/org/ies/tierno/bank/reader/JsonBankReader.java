@@ -20,5 +20,5 @@ public class JsonBankReader implements Reader<Bank> {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
-    }
+    }// fkdjijijfdios
 }
